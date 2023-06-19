@@ -10,6 +10,7 @@ const carouselText = [
   { text: "a Front End Developer.", color: "#22a6ff" },
   { text: "a Freelancer.", color: "#22a6ff" },
   { text: "a Mechanical Engineer.", color: "#22a6ff" },
+  { text: "an Entrepreneur.", color: "#22a6ff" },
 ];
 
 $(document).ready(async function () {
