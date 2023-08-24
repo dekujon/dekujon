@@ -19,7 +19,7 @@ body {
 .container {
     padding: 4vh;
     max-width: 80rem;
-    height: 100svh;
+    height: 100dvh;
     margin: 0 auto;
     position: relative;
 }
