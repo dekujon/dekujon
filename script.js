@@ -126,5 +126,4 @@ $(document).ready(function () {
     $("#home-mid").show();
     $(".content-mid").removeClass("show").addClass("hide");
   });
-
 });
